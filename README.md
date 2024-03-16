@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @shidhesh, a passionate Data Scientist and Machine Learning Developer.
+Hey there...👋
+
+- 👋 I’m Sidheshwar, a passionate Data Scientist and Machine Learning Developer.
 - 👀 I’m interested in leveraging data to solve real-world problems and drive innovation.
 - 🌱 I’m currently honing my skills in Model Development and Validation, mastering Python, and diving deep into various Machine Learning algorithms.
 - 💞️ I’m looking to collaborate on exciting projects where I can apply my analytical prowess and contribute to meaningful outcomes.
