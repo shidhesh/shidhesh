@@ -7,4 +7,4 @@
 - 📫 How to reach me? Drop me a message on [Linkedin](www.linkedin.com/in/siddheshwarshelke) or shoot me an email at shidheshshelke17@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I thrive on exploring uncharted territories in the coding cosmos!
-- 🔥 [Portfolio](https://github.com/shidhesh/PortFolio)
+- 🔥 [Portfolio](https://shidhesh.github.io/PortFolio/)
